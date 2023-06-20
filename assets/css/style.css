@@ -383,12 +383,12 @@ h6,
   border-radius: 3px;
   transition: 0.5s;
   margin-top: 30px;
-  color: #242422;
-  background: #c9c910;
+  color: #f9fbff;
+  background: #244d74;
 }
 
 #hero .btn-get-started:hover {
-  background: #ddc808;
+  background: #3776b0;
 }
 
 #hero .animated {

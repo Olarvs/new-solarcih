@@ -367,6 +367,14 @@ h6,
   color: #242422;
 }
 
+#hero h1 {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #242422;
+}
+
 #hero h2 {
   color: #6a6765;
   margin: 15px 0 0 0;
@@ -383,12 +391,12 @@ h6,
   border-radius: 3px;
   transition: 0.5s;
   margin-top: 30px;
-  color: #f9fbff;
-  background: #244d74;
+  color: #242422;
+  background: #bc9c0d;
 }
 
 #hero .btn-get-started:hover {
-  background: #3776b0;
+  background: #bc9c0d;
 }
 
 #hero .animated {

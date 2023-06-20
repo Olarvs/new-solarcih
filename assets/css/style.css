@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #212529;
+  color: #242422;
 }
 
 a {
@@ -31,7 +31,8 @@ h4,
 h5,
 h6,
 .font-primary {
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+
 }
 
 /*--------------------------------------------------------------
@@ -44,7 +45,7 @@ h6,
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #0ea101;
+  background: #2f7424;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -58,7 +59,7 @@ h6,
 }
 
 .back-to-top:hover {
-  background: #ee7843;
+  background: #2f7424;
   color: #fff;
 }
 
@@ -98,7 +99,7 @@ h6,
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #7a6960;
+  color: #242422;
   text-decoration: none;
 }
 
@@ -141,7 +142,7 @@ h6,
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 15px;
-  color: #4e4039;
+  color: #242422;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -162,7 +163,7 @@ h6,
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #11139e;
+  background: #2f7424;
   color: #ffffff;
   padding: 10px 25px;
   margin-left: 30px;
@@ -172,7 +173,7 @@ h6,
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #244d74;
+  background: #3b962d;
 }
 
 .navbar .dropdown ul {
@@ -207,7 +208,7 @@ h6,
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ffe711;
+  color: #244d74;
 }
 
 .navbar .dropdown:hover>ul {
@@ -363,11 +364,11 @@ h6,
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #4e4039;
+  color: #242422;
 }
 
 #hero h2 {
-  color: #a08f86;
+  color: #6a6765;
   margin: 15px 0 0 0;
   font-size: 24px;
 }
@@ -382,8 +383,8 @@ h6,
   border-radius: 3px;
   transition: 0.5s;
   margin-top: 30px;
-  color: #252525;
-  background: #ffe711;
+  color: #242422;
+  background: #c9c910;
 }
 
 #hero .btn-get-started:hover {

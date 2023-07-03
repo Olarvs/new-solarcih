@@ -500,7 +500,7 @@ section {
   display: block;
   width: 60px;
   height: 2px;
-  background: #eb5d1e;
+  background: #2f7424;
   bottom: 0;
   left: calc(50% - 30px);
 }
@@ -610,14 +610,14 @@ section {
 
 .services .icon-box:hover {
   transform: translateY(-5px);
-  border-color: #bc9c0d;
+  border-color: #2f7424;
 }
 
 .services .icon i {
   font-size: 48px;
   line-height: 1;
   margin-bottom: 15px;
-  color: #bc9c0d;
+  color: #2f7424;
 }
 
 .services .title {
@@ -627,7 +627,7 @@ section {
 }
 
 .services .title a {
-  color: #111;
+  color: #242422;
 }
 
 .services .description {

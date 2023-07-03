@@ -1355,11 +1355,11 @@ section {
   float: right;
   text-align: center;
   font-size: 13px;
-  color: #212529;
+  color: #e9ecf0;
 }
 
 #footer .credits a {
-  color: #eb5d1e;
+  color: #f7f7f7;
 }
 
 @media (max-width: 575px) {

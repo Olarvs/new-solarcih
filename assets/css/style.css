@@ -158,7 +158,7 @@ h6,
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #244d74;
+  color: #2f7424;
 }
 
 .navbar .getstarted,
@@ -208,7 +208,7 @@ h6,
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #244d74;
+  color: #2f7424;
 }
 
 .navbar .dropdown:hover>ul {
@@ -391,7 +391,7 @@ h6,
   border-radius: 3px;
   transition: 0.5s;
   margin-top: 30px;
-  color: #242422;
+  color: #fcebe3;
   background: #bc9c0d;
 }
 

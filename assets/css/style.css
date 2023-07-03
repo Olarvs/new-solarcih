@@ -857,14 +857,14 @@ section {
 .faq .faq-list .question {
   display: block;
   position: relative;
-  font-family: #bc9c0d;
+  font-family: #244d74;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
   font-weight: 600;
   padding-left: 25px;
   cursor: pointer;
-  color: #bc9c0d;
+  color: #244d74;
   transition: 0.3s;
 }
 
@@ -889,7 +889,7 @@ section {
 }
 
 .faq .faq-list .collapsed:hover {
-  color: #bc9c0d;
+  color: #244d74;
 }
 
 .faq .faq-list .collapsed .icon-show {
